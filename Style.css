@@ -41,7 +41,7 @@ body{
 }
 .hero {
     height: 500px;
-  background: url('.demo1/public/bg.png') no-repeat center center;
+  background: url('./demo1/public/bg.png') no-repeat center center;
   background-size: 1400px 500px;
   color: white;
   text-align: center;
