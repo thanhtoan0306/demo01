@@ -1,0 +1,96 @@
+img {
+    height: 60px;
+    width: 60px;
+   
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 100px;
+    background: #131722;
+}
+.menu a {
+    margin: 0 50px;
+    text-decoration: none;
+    color:  #f8fafc;
+}
+.btn {
+    color: #000000;
+    text-decoration: none;
+    background: #FFD900;
+    padding: 8px 16px; 
+    border-radius: 5px;
+    font-weight: bold;
+}
+.changa-one-regular {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.changa-one-regular-italic {
+  font-family: "Funnel Sans", sans-serif;
+  font-style: bold;
+}
+body{
+    font-family: "Funnel Sans", sans-serif;
+    margin: 0px;
+    height: 100vh;
+    background-color: #131722;
+}
+.hero {
+    height: 500px;
+  background: url('/Asset/ronan-furuta-gQnsPXPf_rs-unsplash.jpg') no-repeat center center;
+  background-size: 1400px 500px;
+  color: white;
+  text-align: center;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  overflow: hidden;
+}
+
+.hero-content {
+    width: 100%;
+    height: 100%;
+      background-color: rgba(0, 0, 0, 0.705);
+    }
+
+.ux1 {
+    padding-top: 60px;
+    color: #FFD900;
+}
+.ux2 {
+    padding-bottom: 60px;
+}
+.content-banners {
+    display: flex;
+    justify-content: space-around;
+}
+.logo-row {
+    display: flex;
+    justify-content: space-around;
+    background-color: #131722;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.banner2 {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 130PX;
+}
+.banner-text-left {
+    font-size: 40px;
+}
+.text-mini {
+    font-size: 20px;
+    color: #FFD900;
+    margin-bottom: 10px;
+}
+.banner-text-right {
+    font-size: 20px;
+    color: white;
+    padding-right: 130px;
+    text-align: justify;
+}
